@@ -63,21 +63,23 @@ const experiencia = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas y Actividad
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielGarciaRodi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGarciaRodi&layout=compact&theme=tokyonight&hide_border=true)
+
+### 📈 Contribuciones del año: **79 contributions**
+
+### 💻 Repositorios públicos: **51**
 
 </div>
 
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielGarciaRodi&theme=tokyonight&hide_border=true)
-
-</div>
+```text
+📊 Lenguajes que más uso:
+Python      ████████░░░░░░░░░░░░  40%
+CSS         ███████░░░░░░░░░░░░░  35%
+TypeScript  ████░░░░░░░░░░░░░░░░  20%
+Otros       █░░░░░░░░░░░░░░░░░░░   5%
+```
 
 ## 🏆 Logros y Métricas
 
@@ -122,7 +124,7 @@ Explora mis repositorios para ver proyectos en **Node.js**, **React**, **Python*
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garcia.roga02@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-garcia-rodri-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielGarciaRodi)
 
 </div>
