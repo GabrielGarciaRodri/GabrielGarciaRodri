@@ -63,21 +63,23 @@ const experiencia = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas y Actividad
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielGarciaRodi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGarciaRodi&layout=compact&theme=tokyonight&hide_border=true)
+
+### 📈 Contribuciones del año: **79 contributions**
+
+### 💻 Repositorios públicos: **51**
 
 </div>
 
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielGarciaRodi&theme=tokyonight&hide_border=true)
-
-</div>
+```text
+📊 Lenguajes que más uso:
+Python      ████████░░░░░░░░░░░░  40%
+CSS         ███████░░░░░░░░░░░░░  35%
+TypeScript  ████░░░░░░░░░░░░░░░░  20%
+Otros       █░░░░░░░░░░░░░░░░░░░   5%
+```
 
 ## 🏆 Logros y Métricas
 
@@ -94,18 +96,23 @@ const experiencia = {
 
 ## 🎯 Proyectos Destacados
 
-<div align="center">
+Explora mis repositorios para ver proyectos en **Node.js**, **React**, **Python** y más:
 
-[![Bitro](https://github-readme-stats.vercel.app/api/pin/?username=GabrielGarciaRodi&repo=Bitro&theme=tokyonight&hide_border=true)](https://github.com/GabrielGarciaRodi/Bitro)
-[![Classes](https://github-readme-stats.vercel.app/api/pin/?username=GabrielGarciaRodi&repo=Classes&theme=tokyonight&hide_border=true)](https://github.com/GabrielGarciaRodi/Classes)
-[![ShortWebsite](https://github-readme-stats.vercel.app/api/pin/?username=GabrielGarciaRodi&repo=ShortWebsite&theme=tokyonight&hide_border=true)](https://github.com/GabrielGarciaRodi/ShortWebsite)
-[![practicaRedes](https://github-readme-stats.vercel.app/api/pin/?username=GabrielGarciaRodi&repo=practicaRedes&theme=tokyonight&hide_border=true)](https://github.com/GabrielGarciaRodi/practicaRedes)
+- 🔹 [**Bitro**](https://github.com/GabrielGarciaRodi/Bitro) - Proyecto con Python
+- 🔹 [**Classes**](https://github.com/GabrielGarciaRodi/Classes) - Proyecto con Python  
+- 🔹 [**ShortWebsite**](https://github.com/GabrielGarciaRodi/ShortWebsite) - Website con CSS
+- 🔹 [**practicaRedes**](https://github.com/GabrielGarciaRodi/practicaRedes) - Proyecto con CSS
+- 🔹 [**foodLover**](https://github.com/GabrielGarciaRodi/foodLover) - Aplicación con CSS
+- 🔹 [**gridBasico**](https://github.com/GabrielGarciaRodi/gridBasico) - Proyecto con CSS
 
-</div>
+## 📈 Actividad Reciente
 
-## 📈 Gráfico de Actividad
-
-[![Gráfico de actividad de Gabriel](https://github-readme-activity-graph.vercel.app/graph?username=GabrielGarciaRodi&theme=tokyo-night&hide_border=true)](https://github.com/GabrielGarciaRodi)
+```text
+🔨 Desarrollando aplicaciones empresariales con Node.js y NestJS
+☁️  Trabajando con infraestructura cloud en GCP y AWS
+📱 Creando soluciones móviles con React Native
+🔐 Implementando sistemas de autenticación robustos
+```
 
 ## 🎓 Educación
 
