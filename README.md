@@ -1,12 +1,12 @@
 # Gabriel García Rodríguez
 
-**Full Stack Developer** · Node.js · .NET · React · Cloud
+**Full Stack Developer** · Node.js · .NET · Cloud
 
 Desarrollador con experiencia en backend escalable, arquitectura cloud y sistemas empresariales. Enfocado en construir soluciones robustas con buenas prácticas y código limpio.
 
 ## Stack
 
-**Backend:** Node.js, NestJS, .NET 8, C#  
+**Backend:** NodeJS, NestJS, .NET 10, C#  
 **Frontend:** React, React Native, Vue.js  
 **Bases de datos:** PostgreSQL, MongoDB, SQL Server  
 **Cloud & DevOps:** AWS, GCP, Terraform, Docker, GitHub Actions  
@@ -29,14 +29,6 @@ Servicio centralizado de autenticación y gestión de usuarios para aplicaciones
 ### [TaskManagerAPI](https://github.com/GabrielGarciaRodri/TaskManagerAPI)
 API REST para gestión de tareas con autenticación JWT.  
 `ASP.NET Core` `Entity Framework` `SQL Server`
-
-## Lenguajes más usados
-
-```
-C#          ████████████░░░░░░░░  50%
-TypeScript  ██████████░░░░░░░░░░  40%
-JavaScript  ██░░░░░░░░░░░░░░░░░░  10%
-```
 
 ## Educación
 
